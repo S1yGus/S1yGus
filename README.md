@@ -1,7 +1,3 @@
-## Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-
-### My name is Artemij Repp and I am a C++/Unreal Engine developer.
-
 ## My skills:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
